@@ -15,12 +15,6 @@ I am a Software Engineering graduate from **WSB Merito University in Gdańsk** w
 
 ---
 
-### 📂 Key Projects
-* **[SSH Brute-Force Analysis](https://github.com/SWH993/ssh-attack-analysis)** – My flagship data project. Investigating global attack patterns using **Python (Pandas/Matplotlib)**. I transform raw security logs into actionable insights and visual trends.
-* **Local Data Lab** – Managing a home lab environment on **Proxmox** (Debian 13) to host local AI models, database clusters, and automated data pipelines.
-
----
-
 ### 🛠️ Tech Stack & Skills
 **Data & Programming:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
